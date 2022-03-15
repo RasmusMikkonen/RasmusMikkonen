@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RasmusMikkonen
 - 👀 I’m interested in automation software
 - 🌱 I’m currently learning automation technology in Tampere University
-- 💞️ I’m looking to collaborate on school projects
 - 📫 Email: rasmus.mikkonen@tuni.fi
 
 <!---
